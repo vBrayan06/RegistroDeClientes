@@ -28,6 +28,7 @@ El sistema aplica comprobaciones para garantizar que los datos ingresados sean c
 <img width="1014" height="472" alt="image" src="https://github.com/user-attachments/assets/ba5c5990-99f0-42c8-a941-35c35efdd663" />
 <img width="1017" height="479" alt="image" src="https://github.com/user-attachments/assets/ea5c99bd-198a-483c-95a9-ba43107c060e" />
 <img width="1019" height="477" alt="image" src="https://github.com/user-attachments/assets/af2056e6-0cf7-474e-876e-4649eb3b2606" />
+<img width="1014" height="472" alt="image" src="https://github.com/user-attachments/assets/6f209b89-e5b1-4f84-bf4e-883f734e0eb3" />
 <img width="1020" height="475" alt="image" src="https://github.com/user-attachments/assets/d1709161-c8f3-46dd-b126-86e2c01e3b1d" />
 <img width="1018" height="473" alt="image" src="https://github.com/user-attachments/assets/41e5c24e-b853-408d-8c9c-5c4796b3c71f" />
 
